@@ -12,7 +12,8 @@
         "psr-4": {
             "Tapd\\": "src/",
             "Tapd\\Workspace\\": "src/Workspace/",
-            "Tapd\\Story\\": "src/Story/"
+            "Tapd\\Stories\\": "src/Stories/",
+            "Tapd\\Bugs\\": "src/Bugs/"
         }
     },
     "autoload-dev": {
